@@ -1,0 +1,69 @@
+p{
+    font-family: 'Hanalei', cursive;
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+}
+.uno caption{
+    background-color: rgb(255, 218, 7);
+    color: blue;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+div.uno{
+    display: flex;
+    justify-content: center;
+}
+.uno table{
+    border: 1px solid;
+    text-align: center;
+    width: 40em;
+}
+.uno th{
+    border: solid 1px;
+}
+.uno td{
+    border: solid 1px;
+}
+.sola{
+    border: solid 1px;
+    width: 100%;
+    height: 4em;
+}
+.dos caption{
+    background-color: rgb(255, 218, 7);
+    color: blue;
+    font-weight: bold;
+    font-size: 1.5em;
+    caption-side: bottom;
+}
+div.dos{
+    display: flex;
+    justify-content: center;
+}
+.dos table{
+    text-align: center;
+    width: 60em;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.dos tbody {
+    border: red 6px dotted;
+}
+.dos th{
+    border: solid black 1px;
+}
+.dos td{
+    border: solid black 1px;
+}
+hr{
+    text-align: center;
+    width: 45%;
+}
+.bonita{
+    background-color: rgb(255, 218, 7);
+    color: blue;
+    border: solid 3px red;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
